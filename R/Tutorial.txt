@@ -1,1 +1,0 @@
-Código Fonte em R para realização do teste de Friedman.
